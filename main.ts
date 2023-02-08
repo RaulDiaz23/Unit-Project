@@ -1,1 +1,1 @@
-scene.setBackgroundColor(10)
+scene.setBackgroundImage(assets.image`Space1`)
